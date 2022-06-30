@@ -1,0 +1,2 @@
+# MIS
+Minecraft installation switcher
